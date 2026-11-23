@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Googlebot specific rules
+User-agent: Googlebot
+Allow: /
+
+# Bingbot specific rules
+User-agent: Bingbot
+Allow: /
+
+# Canonical Sitemap link for search engines
+Sitemap: https://devadwani.github.io/dev-adwani-portfolio/sitemap.xml
